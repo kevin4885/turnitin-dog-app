@@ -1,7 +1,5 @@
 # turnitin-dog-app
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install turnitin-dog-app.
