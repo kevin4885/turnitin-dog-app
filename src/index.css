@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dog-link-img-width {
+    width: 100px;
+}
+
+.dog-link-img-height {
+    height: 100px;
+}
+
+.dog-img {
+    height: 500px;
+    overflow: hidden;
+}
+
+.dog-img img {
+    max-height: 350px;
+}
+body { height: 100%; width: 100%;}
+
