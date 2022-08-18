@@ -6,7 +6,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 Use the package manager [npm](https://www.npmjs.com/) to install turnitin-dog-app.
 
-```bash
+```
 npm install
 ```
 
@@ -15,6 +15,10 @@ npm install
 ```
 npm run start
 ```
+
+## Demo
+
+[http://dog.turnitin.kjjones.com/](http://dog.turnitin.kjjones.com/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
